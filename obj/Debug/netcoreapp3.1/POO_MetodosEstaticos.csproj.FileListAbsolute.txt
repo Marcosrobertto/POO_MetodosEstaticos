@@ -1,0 +1,13 @@
+C:\Users\Marcos Roberto\Documents\SENAI\POO_MetodosEstaticos\bin\Debug\netcoreapp3.1\POO_MetodosEstaticos.exe
+C:\Users\Marcos Roberto\Documents\SENAI\POO_MetodosEstaticos\bin\Debug\netcoreapp3.1\POO_MetodosEstaticos.deps.json
+C:\Users\Marcos Roberto\Documents\SENAI\POO_MetodosEstaticos\bin\Debug\netcoreapp3.1\POO_MetodosEstaticos.runtimeconfig.json
+C:\Users\Marcos Roberto\Documents\SENAI\POO_MetodosEstaticos\bin\Debug\netcoreapp3.1\POO_MetodosEstaticos.runtimeconfig.dev.json
+C:\Users\Marcos Roberto\Documents\SENAI\POO_MetodosEstaticos\bin\Debug\netcoreapp3.1\POO_MetodosEstaticos.dll
+C:\Users\Marcos Roberto\Documents\SENAI\POO_MetodosEstaticos\bin\Debug\netcoreapp3.1\POO_MetodosEstaticos.pdb
+C:\Users\Marcos Roberto\Documents\SENAI\POO_MetodosEstaticos\obj\Debug\netcoreapp3.1\POO_MetodosEstaticos.csprojAssemblyReference.cache
+C:\Users\Marcos Roberto\Documents\SENAI\POO_MetodosEstaticos\obj\Debug\netcoreapp3.1\POO_MetodosEstaticos.AssemblyInfoInputs.cache
+C:\Users\Marcos Roberto\Documents\SENAI\POO_MetodosEstaticos\obj\Debug\netcoreapp3.1\POO_MetodosEstaticos.AssemblyInfo.cs
+C:\Users\Marcos Roberto\Documents\SENAI\POO_MetodosEstaticos\obj\Debug\netcoreapp3.1\POO_MetodosEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\Marcos Roberto\Documents\SENAI\POO_MetodosEstaticos\obj\Debug\netcoreapp3.1\POO_MetodosEstaticos.dll
+C:\Users\Marcos Roberto\Documents\SENAI\POO_MetodosEstaticos\obj\Debug\netcoreapp3.1\POO_MetodosEstaticos.pdb
+C:\Users\Marcos Roberto\Documents\SENAI\POO_MetodosEstaticos\obj\Debug\netcoreapp3.1\POO_MetodosEstaticos.genruntimeconfig.cache
